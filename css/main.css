@@ -25,8 +25,10 @@ html {
 }
 
 .banner {
+  overflow: hidden;
   position: relative;
   display: block;
+  max-height: 500px;
 }
 
 .banner-content {
