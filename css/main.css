@@ -25,9 +25,13 @@ html {
 }
 
 .banner {
-
+  position: relative;
+  display: block;
 }
 
 .banner-content {
-
+  position: absolute;
+  display: inline-block;
+  bottom: 2%;
+  color: #fff;
 }
